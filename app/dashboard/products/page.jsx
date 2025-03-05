@@ -1,7 +1,7 @@
-const LoginPage = () => {
+const ProductsPage = () => {
     return (
-      <div>LoginPage</div>
+      <div>ProductsPage</div>
     )
   }
   
-  export default LoginPage
+  export default ProductsPage
