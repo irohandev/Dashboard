@@ -17,3 +17,18 @@
 
 }
 
+.userDetail{
+    display: flex;
+    flex-direction: column;
+}
+
+.username{
+    font-weight: 500;
+}
+
+
+.userTitle{
+    font-size: 12px;
+    color: var(--textSoft);
+
+}
